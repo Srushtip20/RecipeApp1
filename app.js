@@ -45,7 +45,7 @@ let currentViewId = null;
 // Starter recipe (replace with your own)
 const starterRecipe = {
   id: String(Date.now()),
-  title: "Vinayak's Masala Omelette",
+  title: "Pav Bhaji",
   description: "A quick spicy omelette with onions, chillies and masala.",
   image: "",
   ingredients: ["2 eggs","1 small onion, chopped","1 green chilli, chopped","Pinch turmeric","Salt to taste","1 tbsp oil"],
